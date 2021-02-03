@@ -258,10 +258,11 @@
 
   .u-section-1 .u-group-3 {
     margin-top: 3px;
-    min-height: 617px;
+    min-height: 639px;
   }
 
   .u-section-1 .u-text-3 {
+    margin-top: 0;
     margin-left: -10px;
     margin-right: -10px;
   }
@@ -329,7 +330,7 @@
 
   .u-section-1 .u-text-2 {
     width: 296px;
-    margin-top: -1px;
+    margin-top: -2px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -349,10 +350,6 @@
   .u-section-1 .u-container-layout-6 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-top: 0;
   }
 }
 
@@ -381,8 +378,8 @@
 
   .u-section-1 .u-text-1 {
     margin-top: -4px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: -4px;
+    margin-right: -4px;
     width: 320px;
   }
 
